@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">I'm ... from .... Dhaka,Bangladesh<br><br>- 🔭 I’m working as Laravel <br>- 📚 I'm currently learning Full Strack Web Development<br>- ⚡ In my free time Coding</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">I'm ... from .... Dhaka,Bangladesh<br><br>- 🔭 I’m working as Laravel <br>- 📚 I'm currently learning Full Strack Web Development<br>- ⚡ In my free time Coding</p>
 
 ###
 
@@ -69,8 +69,3 @@
 <p align="left">Hello World!!</p>
 
 ###
-
-
-
-
-  
