@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left">full stack developer!!</p>
+<p align="left">Full Stack Web Developer!!</p>
 
 ###
 
