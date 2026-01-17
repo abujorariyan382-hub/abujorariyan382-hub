@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm ... from .... Dhaka,Bangladesh<br><br>- 🔭 I’m working as Laravel <br>- 📚 I'm currently learning Full Strack Web Development<br>- ⚡ In my free time Coding</p>
+<p align="left">I'm ... from .... Dhaka,Bangladesh<br><br>- 🔭 I’m working as Laravel <br>- 📚 I'm currently learning Full Strack Web Development<br>* 👯 I'm looking to collaborate on ...<br>* 💬 Ask me about Full Strack Web Development <br>* 📫 How to reach me: abujorariyan382@gmail.com<br><br>- ⚡ In my free time Read Uponash Book,Coding,Programming,<br>travelling</p>
 
 ###
 
@@ -66,7 +66,6 @@
 
 ###
 
-<p align="left">Full Stack Web Developer!!</p>
+<p align="left">Hello World!!</p>
 
 ###
-
